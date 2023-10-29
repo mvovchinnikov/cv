@@ -1,12 +1,21 @@
 {% assign contact = site.data.data.contact %}
 {% if contact %}
 <section class="contact">
-    <div class="title">Contact</div>
+    <div class="title">Контакты</div>
     {% if contact.email %}
         <div class="contact-item">
             <i data-feather="mail"></i>
-            <a href="#">
+            <a href="mailto:i@movchinnikov.ru">
                 {{contact.email}}
+            </a>
+        </div>
+    {% endif %}
+
+    {% if contact.telegram %}
+        <div class="contact-item">
+            <i data-feather="send"></i>
+            <a href="https://t.me/assumptio">
+                {{contact.telegram}}
             </a>
         </div>
     {% endif %}

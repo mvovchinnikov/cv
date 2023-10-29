@@ -1,35 +1,32 @@
-name: John Doe
+name: Максим Овчинников
 support_dark_mode: true
-fork: true
+fork: false
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: i@movchinnikov.ru
+  github: mvovchinnikov
+  telegram: assumptio
+  linkedin: 
   phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Английский
+  - idiom: Русский
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Специалист, Информатика
+    time: 2004-2009
+    university: Уральский государственный<br/> педагогический университет
 
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - Java/Kotlin
+      - Spring Boot
+      - PostgreSQL
   - category: Frontend
     skill:
       - React
@@ -41,68 +38,62 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Разработчик с более чем 10-летним опытом. Владею языками программирования Java и Kotlin. 
+  Могу выполнять задачи связанные с фронтендом. За всю карьеру поработал над широким спектром проектов, 
+  от небольших приложений до крупных корпоративных систем и платформ. Мне нравится создавать высококачественное 
+  программное обеспечение, отвечающее потребностям клиентов и конечных пользователей. Мои навыки включают проектирование 
+  и реализацию сложных систем, оптимизацию производительности и сотрудничество с другими командами. 
+  Занимаюсь разработкой архитектуры, анализом бизнес-требований и планированием разработки. 
+  Более года руковожу разработкой в команде из 5 человек.
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Lead Java Developer
+    time: Март 2022 — по настоящее время
+    company: IT_One
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      VTB CRM. Бизнес-планирование
+      Cистема планирования и прогнозирования годовых и квартальных показателей для клиентов корпоративного бизнеса банка ВТБ.
+      <br/> 
+      <br/>
+      Обязанности:<br/>
+      • организация работы команды<br/>
+      • разработка архитектуры и приложения<br/>
+      • технический анализ бизнес-требований<br/>
+      • оценка времени разработки задач и планирование<br/>
+      • code review<br/>
+      • проведение технических собеседований
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Java 17, Spring Boot, PostgreSQL, Docker, Kubernetes, DDD
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Senior Java Developer
+    time: Февраль 2021 — март 2022
+    company: Luxoft Russia
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      VTB CRM. Бизнес-планирование
+      Cистема планирования и прогнозирования годовых и квартальных показателей для клиентов корпоративного бизнеса банка ВТБ.
+      <br/>
+      <br/>
+      Обязанности:<br/>
+      • разработка на Java<br/>
+      • разработка Unit и Integration тестов<br/> 
+      • code review<br/>
+
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
-
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
-
-projects:
-  - title: Cool Project 
-    link: #
+      Java 11, Spring Boot, PostgreSQL, Docker, Openshift, DDD
+  
+  - role: Senior Java Developer
+    time: Май 2016 — февраль 2021
+    company: SberTech
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Сервер конфигурации (Система управления параметрами)
+      Высоконагруженная система для централизованного управления настройками микросервисов Platform V в реальном времени.
+      <br/>
+      <br/>
+      Обязанности:<br/>
+      • разработка на Java, Kotlin, React<br/>
+      • разработка Unit и Integration тестов<br/>
+      • code review
 
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+    technologies_used: | 
+      Java 8/11, Kotlin, Spring Boot, Oracle, React, Docker, Openshift
