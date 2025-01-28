@@ -62,7 +62,7 @@ profile: |
 experience:
   - role: Lead Java Developer
     time: Апрель 2023 — по настоящее время
-    company: IT_One
+    company: IT_ONE
     details: |
       VTB CRM. Бизнес-планирование <br/><br/> 
       <li>Руководил командой разработки из 5 человек, планировал и декомпозировал
@@ -83,7 +83,7 @@ experience:
 
   - role: Senior Java Developer
     time: Март 2022 — Апрель 2023
-    company: IT_One
+    company: IT_ONE
     details: |
       VTB CRM. Бизнес-планирование <br/><br/> 
       <li>Разрабатывал приложение на Java и Spring Boot, создавал REST API (OpenAPI
@@ -107,7 +107,7 @@ experience:
   
   - role: Senior Java Developer
     time: Февраль 2021 — март 2022
-    company: Luxoft Russia
+    company: LUXOFT RUSSIA
     details: |
       VTB CRM. Бизнес-планирование <br/><br/>
 
@@ -124,7 +124,7 @@ experience:
   
   - role: Senior Java Developer
     time: Май 2016 — февраль 2021
-    company: СберТех
+    company: СБЕРТЕХ
     details: |
       Platform V — Сервер конфигурации (Система управления параметрами)<br/><br/>
 
@@ -145,7 +145,7 @@ experience:
 
   - role: Senior Java Developer
     time: Март 2015 — Май 2016
-    company: Альфа-Банк
+    company: АЛЬФА-БАНК
     details: | 
 
     technologies_used: |
@@ -153,7 +153,7 @@ experience:
 
   - role: Java Developer
     time: 2013 — Март 2015
-    company: Банк24.ру
+    company: БАНК24.РУ
     details: | 
 
     technologies_used: |
