@@ -28,6 +28,7 @@ skills:
       - Kotlin
       - Spring Boot
       - PostgreSQL
+      - Apache Kafka
   - category: Frontend
     skill:
       - React
@@ -36,14 +37,14 @@ skills:
     skill:
       - Docker
       - Kubernetes
-  - category: Tools
+      - Jenkins
+      - TeamCity
+  - category: Прочие
     skill:
       - DDD
       - Maven
       - Gradle       
       - Git
-      - Jenkins
-      - TeamCity
 
 # Profile
 profile: |
@@ -78,7 +79,7 @@ experience:
       регрессионного тестирования на 50%, что повысило стабильность системы и
       снизило нагрузку на тестировщиков.</li>
     technologies_used: | 
-      Java 17, Spring Boot, PostgreSQL, Docker, Kubernetes, DDD
+      Java 17, Spring Boot, PostgreSQL, Docker, Kubernetes, DDD, Kafka
 
   - role: Senior Java Developer
     time: Март 2022 — Апрель 2023
@@ -102,7 +103,7 @@ experience:
       года, инициированную заказчиком, за технический вклад и инициативные
       решения.</li>
     technologies_used: | 
-      Java 17, Spring Boot, PostgreSQL, Docker, Kubernetes, DDD
+      Java 17, Spring Boot, PostgreSQL, Docker, Kubernetes, DDD, Kafka
   
   - role: Senior Java Developer
     time: Февраль 2021 — март 2022
@@ -140,14 +141,20 @@ experience:
       <li>Работал с инструментами DevOps: написал pipeline для сборки дистрибутива и
       его публикации в Docker Registry.</li>
     technologies_used: |
-      Java 8/11, Kotlin, Spring, Spring Boot, Oracle, JavaScript, ReactJs, Docker, Openshift/Kubernetes
+      Java 8/11, Kotlin, Spring, Spring Boot, Oracle, JavaScript, ReactJs, Docker, Openshift/Kubernetes, Kafka
 
   - role: Senior Java Developer
     time: Март 2015 — Май 2016
     company: Альфа-Банк
     details: | 
 
+    technologies_used: |
+      Java 7, Spring, Hibernate
+
   - role: Java Developer
     time: 2013 — Март 2015
     company: Банк24.ру
     details: | 
+
+    technologies_used: |
+      Java 6, Apache Tapestry, Spring, Hibernate, Angular
