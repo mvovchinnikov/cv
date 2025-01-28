@@ -24,7 +24,8 @@ education:
 skills:
   - category: Backend
     skill: 
-      - Java/Kotlin
+      - Java 8+
+      - Kotlin
       - Spring Boot
       - PostgreSQL
   - category: Frontend
@@ -34,9 +35,10 @@ skills:
   - category: DevOps
     skill:
       - Docker
-      - Kubernetes 
+      - Kubernetes
   - category: Tools
     skill:
+      - DDD
       - Maven
       - Gradle       
       - Git
@@ -121,7 +123,7 @@ experience:
   
   - role: Senior Java Developer
     time: Май 2016 — февраль 2021
-    company: SberTech
+    company: СберТех
     details: |
       Platform V — Сервер конфигурации (Система управления параметрами)<br/><br/>
 
@@ -145,11 +147,7 @@ experience:
     company: Альфа-Банк
     details: | 
 
-    technologies_used: | 
-
   - role: Java Developer
     time: 2013 — Март 2015
     company: Банк24.ру
     details: | 
-
-    technologies_used: | 
