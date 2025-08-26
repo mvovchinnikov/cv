@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Java Team Lead CV</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Full Name</h1>
+    <p class="role">Java Team Lead / Java Tech Lead / Java Architect</p>
+    <address>
+      <a href="mailto:email@example.com">email@example.com</a> |
+      <a href="https://github.com/username">github.com/username</a> |
+      <a href="https://linkedin.com/in/username">linkedin.com/in/username</a>
+    </address>
+  </header>
+  <main>
+    <section id="summary">
+      <h2>Summary</h2>
+      <p>Brief overview of experience and achievements.</p>
+    </section>
+    <section id="skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>Java, Spring, Spring Boot</li>
+        <li>Microservices, REST APIs</li>
+        <li>Cloud platforms (AWS, GCP)</li>
+        <li>Team leadership, Agile methodologies</li>
+      </ul>
+    </section>
+    <section id="experience">
+      <h2>Professional Experience</h2>
+      <article>
+        <h3>Company Name <span>Location</span> <time>YYYY – YYYY</time></h3>
+        <p class="position">Senior Java Developer / Team Lead</p>
+        <ul>
+          <li>Leading a team of X developers building Y.</li>
+          <li>Designed architecture for Z using Spring Boot and microservices.</li>
+        </ul>
+      </article>
+    </section>
+    <section id="education">
+      <h2>Education</h2>
+      <p>Degree, University, Year</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; <span id="year"></span> Full Name</p>
+  </footer>
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
