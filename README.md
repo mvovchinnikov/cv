@@ -1,6 +1,6 @@
 # Java Lead CV Template
 
-This project provides a minimalist CV template for **Java Team Leads**, **Java Tech Leads** and **Java Architects**. It uses semantic **HTML5** and modern **CSS3** styling and is ready to be served by GitHub Pages.
+This project provides a minimalist CV template for Java developers and related roles. It uses semantic **HTML5** and modern **CSS3** styling and is ready to be served by GitHub Pages.
 
 ## Getting started
 
